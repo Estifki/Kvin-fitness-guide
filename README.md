@@ -1,13 +1,11 @@
 # kvinfitness
 
-This App Works Offline.
-#
-Try to get All packages.\n
-Local Amharic Fonts Used.
+This App Works Offline.<br>
+Try to get All packages.<br>
+Local Amharic Fonts Used.<br>
 
 
 ## Getting Started
-
 
 <img src = https://user-images.githubusercontent.com/79464470/156593931-5abbe30f-6722-43d0-b40e-bf27c1b3c940.png width =400 />
 <img src = https://user-images.githubusercontent.com/79464470/156593935-a4e68348-8526-4dfa-8e89-259dfe3d8fd7.png width =400/>
