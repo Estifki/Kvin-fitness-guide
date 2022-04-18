@@ -1,6 +1,7 @@
 # kvinfitness
 
-This App Works Offline.\n
+This App Works Offline.
+#
 Try to get All packages.\n
 Local Amharic Fonts Used.
 
